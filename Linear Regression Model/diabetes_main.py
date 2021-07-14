@@ -50,7 +50,7 @@ print("Mean squared error is ", mean_squared_error(diabetes_y1_test, diabetes_y1
 
 # Plotting the curve using matplotlib.pyplot
 
-# Scatter plot (Use of dots to represent the values)
+# Scatter plot (Use of dots to represent the values) 
 plt.scatter(diabetes_x1_test, diabetes_y1_test)
 
 # Plotting a line that passes almost in between all the scattered points reducing the errors.

@@ -1,0 +1,17 @@
+Tested Models :
+
+All of these errors are calculated using the metric of cross validation technique, which takes into account nearly the entire dataset. As opposed to directly considering root mean squared error and selecting a model with a minimum value, this is a more auspicious and convincing metric for selecting a model.
+
+1. Random Forest Regression : 
+    Mean :  3.3722251518334003
+    Standard Deviation :  0.73348349860119
+
+2. Decision Tree Regression : 
+    Mean :  4.400719872868974
+    Standard Deviation :  0.7966377305317691
+
+3. Linear Regression :
+    Mean :  5.037482786117751
+    Standard Deviation :  1.0594382405606957
+
+I selected Random Forest Regression as the best model for this project because it had the lowest mean and standard deviation amongst the models I tested.

@@ -1,6 +1,8 @@
 Tested Models :
 
-All of these errors are calculated using the metric of cross validation technique, which takes into account nearly the entire dataset. As opposed to directly considering root mean squared error and selecting a model with a minimum value, this is a more auspicious and convincing metric for selecting a model.
+All of these errors are calculated using the metric of cross validation technique, which takes into account nearly the entire dataset. 
+As opposed to directly considering root mean squared error and selecting a model with a minimum value, this is a more auspicious and convincing metric for 
+selecting a model.
 
 1. Random Forest Regression : 
     Mean :  3.3722251518334003
